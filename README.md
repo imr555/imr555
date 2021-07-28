@@ -1,4 +1,4 @@
-Greetings esteemed reader. . I like solving problems and finding patterns.
+Greetings esteemed reader. . I like solving problems and finding patterns. I am an aspiring machine learning engineer and researcher
 
 My research interests revolve around everything machine learning with a focus on deep learning. I also like software development and deploying products at scale. I have done projects and have a keen interest in problems involving resource-constrained machine learning, scene and optical character recognition, object detection and tracking, zero-shot image tagging, weakly-supervised image segmentation, navigational path planning and swarm robotics.
 
